@@ -19,6 +19,8 @@
 
 
 
+
+
 ### 在庫統合（Consolidate結果）
 <img width="1499" height="904" alt="スクリーンショット 2025-08-22 154055" src="https://github.com/user-attachments/assets/145cba62-d960-4429-bb39-e881514aca4b" />
 
