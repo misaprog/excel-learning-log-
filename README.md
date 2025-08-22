@@ -52,12 +52,14 @@
 * Sheet2 → 5月
 * Sheet3 → 6月
 * Sheet4 → レポート
-  \<img width="458" height="834" alt="スクリーンショット 2025-08-22 160418" src="https://github.com/user-attachments/assets/6a138367-a9ce-4dc1-b511-da082f22dd9c" />
+* 
+  <img width="458" height="834" alt="スクリーンショット 2025-08-22 160418" src="https://github.com/user-attachments/assets/6a138367-a9ce-4dc1-b511-da082f22dd9c" />
 
 
 ### ステップ 3
 
 6月シートのコピーを作成し、ワークブックの最初に移動して名前を「サマリー」に変更します。
+
 <img width="509" height="828" alt="スクリーンショット 2025-08-22 161512" src="https://github.com/user-attachments/assets/87d6754a-ca45-4404-a3c6-0852cdf10caa" />
 
 
