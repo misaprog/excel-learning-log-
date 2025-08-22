@@ -58,7 +58,7 @@
 ### ステップ 3
 
 6月シートのコピーを作成し、ワークブックの最初に移動して名前を「サマリー」に変更します。
-\<img width="509" height="828" alt="スクリーンショット 2025-08-22 161512" src="https://github.com/user-attachments/assets/87d6754a-ca45-4404-a3c6-0852cdf10caa" />
+<img width="509" height="828" alt="スクリーンショット 2025-08-22 161512" src="https://github.com/user-attachments/assets/87d6754a-ca45-4404-a3c6-0852cdf10caa" />
 
 
 ### ステップ 4
@@ -67,13 +67,13 @@
 
 * 月次シート → 赤
 * サマリーシート → 青
-  \<img width="384" height="86" alt="スクリーンショット 2025-08-22 161736" src="https://github.com/user-attachments/assets/3c3c925d-5177-489e-83a0-d98e888321e3" />
+  <img width="384" height="86" alt="スクリーンショット 2025-08-22 161736" src="https://github.com/user-attachments/assets/3c3c925d-5177-489e-83a0-d98e888321e3" />
 
 
 ### ステップ 5
 
 3Dセル参照を使用して、4月〜6月のヘルプデスク時間をサマリーシートに合計します。
-\<img width="586" height="875" alt="スクリーンショット 2025-08-22 162839" src="https://github.com/user-attachments/assets/6e923b18-8829-4ec1-a80f-5f837386d308" />
+<img width="586" height="875" alt="スクリーンショット 2025-08-22 162839" src="https://github.com/user-attachments/assets/6e923b18-8829-4ec1-a80f-5f837386d308" />
 
 
 
@@ -91,7 +91,7 @@ Consolidate ツールを使用して、以下のサマリーを作成します�
 * 対象：5月第4週、6月第1週、6月第2週
 * 集計：優先度ごとのチケット件数
 * 並べ替え：優先度順
-  \<img width="455" height="544" alt="スクリーンショット 2025-08-22 215935" src="https://github.com/user-attachments/assets/9e8d730f-f1c4-4a01-a3c8-107250479c4b" />
+  <img width="455" height="544" alt="スクリーンショット 2025-08-22 215935" src="https://github.com/user-attachments/assets/9e8d730f-f1c4-4a01-a3c8-107250479c4b" />
 
 
 ### ステップ 8
@@ -102,7 +102,7 @@ Consolidate ツールで以下を集計：
 * 対象：5月第4週、6月第1週、6月第2週
 * 小数点以下2桁に書式変更（四捨五入は使用しない）
 * 並べ替え：優先度順
-  \<img width="455" height="544" alt="スクリーンショット 2025-08-22 215935" src="https://github.com/user-attachments/assets/dba5f5bd-73b8-40dc-ab60-4bafce11c35d" />
+  <img width="455" height="544" alt="スクリーンショット 2025-08-22 215935" src="https://github.com/user-attachments/assets/dba5f5bd-73b8-40dc-ab60-4bafce11c35d" />
 
 
 > ⚠️ 他の参照は必ず削除してから次のステップへ進む
@@ -114,7 +114,7 @@ Consolidate ツールで以下を集計：
 * 満足度評価ごとのチケット数
 * 使用関数：COUNT
 * 並べ替え：満足度順
-  \<img width="455" height="544" alt="スクリーンショット 2025-08-22 215935" src="https://github.com/user-attachments/assets/62772430-af06-4e92-8380-02fd08c966d0" />
+  <img width="455" height="544" alt="スクリーンショット 2025-08-22 215935" src="https://github.com/user-attachments/assets/62772430-af06-4e92-8380-02fd08c966d0" />
 
 ###　ステップ７．９はcountif関数で、合計を出してから統合する！
 
