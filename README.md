@@ -126,7 +126,7 @@ Consolidate ツールで以下を集計：
   
   <img width="455" height="544" alt="スクリーンショット 2025-08-22 215935" src="https://github.com/user-attachments/assets/62772430-af06-4e92-8380-02fd08c966d0" />
 
-###　ステップ７．９はcountif関数で、合計を出してから統合する！
+### ステップ７．９はcountif関数で、合計を出してから統合する！
 
 ---
 
