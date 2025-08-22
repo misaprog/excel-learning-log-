@@ -13,6 +13,7 @@
 ## 📊 成果画面
 
 ### 売上サマリーシート
+
 <img width="665" height="912" alt="スクリーンショット 2025-08-22 152557" src="https://github.com/user-attachments/assets/fcfa6323-04b5-44a3-8018-879344339237" />
 
 
@@ -22,6 +23,7 @@
 
 
 ### 在庫統合（Consolidate結果）
+
 <img width="1499" height="904" alt="スクリーンショット 2025-08-22 154055" src="https://github.com/user-attachments/assets/145cba62-d960-4429-bb39-e881514aca4b" />
 
 
@@ -52,7 +54,7 @@
 * Sheet2 → 5月
 * Sheet3 → 6月
 * Sheet4 → レポート
-* 
+  
   <img width="458" height="834" alt="スクリーンショット 2025-08-22 160418" src="https://github.com/user-attachments/assets/6a138367-a9ce-4dc1-b511-da082f22dd9c" />
 
 
